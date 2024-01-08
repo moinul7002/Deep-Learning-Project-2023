@@ -11,3 +11,7 @@ The model checkpoints can be found [here](https://drive.google.com/drive/folders
 
 
 We implemented the code on Kaggle.
+
+# Deep-Learning-Project-Report-2023
+
+The project report can be found [here](https://github.com/moinul7002/Deep-Learning-Project-2023/blob/master/Deep_Learning_Project_Report_2023.pdf)
